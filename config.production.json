@@ -4,7 +4,7 @@
 		"connection": {
 			"filename": "content/data/ghost.db"
 		}
-	}
+	},
 	"caching": {
 		"frontend": {
 			"maxAge": 72000
